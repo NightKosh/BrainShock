@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/HediffDef[defName="BrainShock" and defName]/stages</xpath>
+				<value>
+					<stages>
+						<li>
+							<capMods>
+								<li>
+									<capacity>Consciousness</capacity>
+									<setMax>0.7</setMax>
+								</li>
+							</capMods>
+						</li>
+					</stages>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+</Patch>

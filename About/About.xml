@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>BrainShock</name>
+	<author>NightKosh</author>
+	<packageId>NightKosh.BrainShock</packageId>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<description>
+		This mod increases maximum consciousness value of BrainShock debuff to 70%.
+	</description>
+</ModMetaData>
